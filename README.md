@@ -1,2 +1,2 @@
-# work-website
-view my work contributions and interests
+# jekyll-blog-example
+Example of a Jekyll-powered blog
