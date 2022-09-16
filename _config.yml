@@ -5,3 +5,6 @@ title: [Jackson Ogles]
 description: [View my work contributions and interests below]
 show_downloads: [false]
 google_analytics: [332391305]
+paginate: 10
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
