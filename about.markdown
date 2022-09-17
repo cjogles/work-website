@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hi!
 
-{% raw%}{% for image in site.static_files %}
+{% for image in site.static_files %}
   {% if image.path contains 'assets/me' %}
     <img src="{{ image.path }}" alt="Jackson Ogles Profile Picture">
   {% endif %}
