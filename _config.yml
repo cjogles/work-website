@@ -11,3 +11,4 @@ social_links:
   linkedin: cjogles
 theme: minima
 show_excerpts: true
+paginate: 3

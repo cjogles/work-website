@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Hi! 👋
 permalink: /about/
 ---
-# Hi! 👋
 
 <div style="display: flex; align-items: center;">
      <p style="margin-right: 30px">
