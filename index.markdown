@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome to my work website! Thanks for visiting.
+
+Browse my blog articles to learn more about my past work contributions and interests.
