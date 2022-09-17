@@ -3,15 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-Here's an image of a drag racer in action:
+Hi!
 
-![Family](./assets/family.jpeg)
-
-Move along.
-
-<img src="./assets/family.jpeg"
-     alt="Family"
-     style="float: left; margin-right: 10px;" />
+<img src="me.jpeg" alt="Jackson Ogles Profile Picture" />
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
