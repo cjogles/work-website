@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi! 👋
+title: About Jackson
 permalink: /about/
 ---
 
