@@ -12,3 +12,5 @@ social_links:
 theme: minima
 show_excerpts: true
 paginate: 3
+minima:
+  skin: dark
