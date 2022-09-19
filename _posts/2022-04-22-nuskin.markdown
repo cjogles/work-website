@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Enterprise Software Engineering @ Nu Skin Enterprises"
+title:  "Software Engineering @ Nu Skin Enterprises"
 date:   2022-04-22 12:30:38 -0600
 ---
-Working at Nu Skin as a software engineer, this is my current occupation.
+My current occupation.
 
 <a href="https://nuskin.com/" target="_blank" rel="nofollow">
   <img src="{{site.baseurl}}/assets/nuskin.jpeg" alt="Nu Skin Building in Provo, UT">
@@ -11,12 +11,30 @@ Working at Nu Skin as a software engineer, this is my current occupation.
 
 ## My team
 
-I work at Nu Skin Enterprises as a Software Engineer working remotely as part of the product presentation team. We work in an agile manner. I meet with my team each morning at 9:45 AM to go over updates, declare obstacles that we may be encountering on our respective tasks, and collaborate on other important issues to increase our velocity towards achieving Nu Skin's vision of NextGen technology efforts. I have one senior developer, one quality assurance engineer, one site reliability engineer one user experience designer, an SAP expert, a scrum master, and a product owner on my team. I enjoy our discussions each day and it feels easy to connect and get things done. I don't feel afraid to ask for help when I need it and I feel like I can quickly understand what my job is each day and what I need to do to succeed. That feels good. 
+I work remotely for Nu Skin Enterprises as a Software Engineer as part of the product presentation team. We work in an agile manner. I meet with my team each morning at 9:45 AM to go over updates, declare obstacles that we may be encountering on our respective tasks, and collaborate with other on important issues to increase our velocity in achieving Nu Skin's vision of NextGen technology goals. My team is composed of one other software engineer, one quality assurance engineer, one site reliability engineer, one user experience designer, one SAP expert, one scrum master, and one product owner. I enjoy our discussions each day and it feels easy to connect and get things done. I don't feel afraid to ask for help when I need it and I feel like I can quickly understand what my job is each day and what I need to do to succeed. That feels good. There are countless other teams that compose the larger part of Nu Skin's technology department all responsible for different API's and bits and pieces of the business. We interact with a lot of them on a weekly and monthly basis depending on what tasks we need to get done.
 
 ## My job
 
-My responsibilities include writing front end views for product pages and product category pages, including updates and refinement to the main catalog template or page. I have written unit tests to ensure my additions to product displays interact with multiple API's correctly and render their respective views in the correct ways. 
+With my job I can take on a few different roles here and there. Sometimes I need to update and maintain front end product views, write test coverage for those updates, and run those changes through the CI/CD pipeline with the quality assurance engineer. Sometimes I need to collaborate with the UX designer on an update to the Nu Skin logo and it's variety of use cases in distributor sites vs home sites and how we want that to work. At all times though, I try to wear the hat of a planner and efficient organizer, so I can make sure when it comes time to code, we are more likely to be coding something once that will be stable and reliable, rather then something we code once and need to come back to again and again to change. Sometimes this can be unavoidable when tasks come from stakeholders and product owners with their own unchangeable agendas, but I try to do what I can to educate everyone on my team what I see and what we can do to limit these problems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+## Technologies worked with
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Basics
+- javascript
+- html
+- css
+
+Front end frameworks
+- Vue.js 
+- Vue testiing utilities
+- React
+
+Back end
+- Node.js 
+
+Cloud services
+- AWS lambdas 
+
+Other 
+- Screaming Frog Search Engine Optimization Spider (SEO) for generating a sitemap
+- Dealing with large scale (million page website) with overly complex infrastructure

@@ -4,10 +4,20 @@ title:  "Bachelors in Psychology from Brigham Young University"
 date:   2018-01-22 12:30:38 -0600
 ---
 
-<a href="https://www.byu.edu/" target="_blank" rel="nofollow"><img src="../assets/byu.jpeg" alt="BYU campus in Provo, UT"></a>
+My university education at a private university.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+<a href="https://www.byu.edu/" target="_blank" rel="nofollow">
+  <img src="{{site.baseurl}}/assets/byu.jpeg" alt="BYU campus in Provo, UT">
+</a>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+## My experience
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+I was born into a family who devoutly follows the edicts of the church of Jesus Christ of Latter-day Saints. They have great faith in their christian values. I adopted these beliefs and notions and so went to the church owned university of BYU. I had a great experience here! The professors were upstanding and the curriculum was fantastic. My interests were wide and my questions deep, and BYU gave me the chance to explore these things while I studied psychology and got my bachelors degree of science. I no longer subscribe to the notions and beliefs of the church of my families origin, but I certainly love my family and these church going people all the same. Glad I went here and learned what I did. 
+
+## Skills picked up
+
+- General education in history, mathematics, writing
+- Applied research principles
+- Statistics
+- Critical thinking
+
