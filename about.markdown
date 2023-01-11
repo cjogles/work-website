@@ -6,7 +6,7 @@ permalink: /about/
 
 <div style="display: flex; align-items: center;">
      <p style="margin-right: 30px">
-          My name is Jackson Ogles. I'm a driven web developer who's passionate about staying up to date on latest technologies and all things software engineering. I live north of Salt Lake City, Utah. I enjoy spending time with my family when I'm not digging into fun computer science projects. Thanks for visiting my site. I hope we can collaborate in the work force soon. 😊
+          My name is Jackson Ogles. I'm a driven software engineer who's passionate about staying up to date on latest web technologies. I live north of Salt Lake City, Utah and I enjoy spending time with my family, improving my fitness, and experiencing all that life has to offer when I'm not engaged in my work. Thanks for visiting my site. Looking forward to our work together. 😊
      </p>
      <img style="width: 30%;" src="../assets/me.jpeg" alt="Jackson Ogles Profile Picture">
 </div>

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Bachelors in Psychology from Brigham Young University"
+title:  "Bachelor of Science degree in Psychology from Brigham Young University"
 date:   2018-01-22 12:30:38 -0600
 ---
 
-My university education at a private university.
+My undergraduate education was both enriching and supportive to my career aspirations and competencies.
 
 <a href="https://www.byu.edu/" target="_blank" rel="nofollow">
   <img src="{{site.baseurl}}/assets/byu.jpeg" alt="BYU campus in Provo, UT">
@@ -12,12 +12,16 @@ My university education at a private university.
 
 ## My experience
 
-I was born into a family who devoutly follows the edicts of the church of Jesus Christ of Latter-day Saints. They have great faith in their christian values. I adopted these beliefs and notions and so went to the church owned university of BYU. I had a great experience here! The professors were upstanding and the curriculum was fantastic. My interests were wide and my questions deep, and BYU gave me the chance to explore these things while I studied psychology and got my bachelors degree of science. I no longer subscribe to the notions and beliefs of the church of my families origin, but I certainly love my family and these church going people all the same. Glad I went here and learned what I did. 
+Attending Brigham Young University was a good experience. I learned how to think critically, analyze information, and form evidenced based opinions in the world. I was enriched by professors looking to educate me to go out and serve our communities effectively and swiftly. I made many friends, had fun, and enjoyed learning many new things in the realm of general studies (i.e. history, mathematics, writing, and engineering), as well as my more focused approach on psychology as per my personal interests at the time. 
 
 ## Skills picked up
 
-- General education in history, mathematics, writing
-- Applied research principles
-- Statistics
-- Critical thinking
+<b>A. Knowledge of the Discipline</b>
+Able to comprehend, apply, and synthesize knowledge of the discipline of psychology. Synthesizing a broad layer of concepts and information into a cohesive approachable objective translates helpfully in the software engineering world. 
+
+<b>B. Effective Research and Writing</b>
+Able to understand and apply basic research methods in psychology including data analysis and interpretation, research design, psychometric methods, and the writing of results in the light of previous findings. Effective documentation practices and helpful analysis and writinig have proved to be big assets to me in the work force.
+
+<b>C. Experiential Learning</b>
+Applied the principles of psychology in an internship setting at DCFS prior to graduation and was hired post graduation. Getting out there and working face to face with people have helped me extensively in working with 3rd party vendors and services to help everyone involved sync up and get things done in my occupation.
 

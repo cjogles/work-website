@@ -4,7 +4,7 @@ title:  "Web Development @ HQ Media Agency"
 date:   2020-10-22 12:30:38 -0600
 ---
 
-Working for a small web design and development agency.
+My first web development job for a small web design and development agency called HQ.
 
 <a href="https://builtbyhq.com/" target="_blank" rel="nofollow">
   <img src="{{site.baseurl}}/assets/hq.jpeg" alt="HQ media agency logo">
@@ -12,11 +12,11 @@ Working for a small web design and development agency.
 
 ## My team
 
-When I worked at HQ web agency I went into the office a few times per week in Ogden, UT, and then spent the rest of the time working remotely. I had two bosses where one boss was responsible for more of the business side of things and collaborating with clients, and the other boss did a large portion of the user experience design work for clients. The rest of the employees were front end and back end web developers and one UX designer. We had a weekly meeting where we one team member would present about something that was interesting to them. And other then that our bosses and some of the more senior web developers would decide which client work was sent to which employee. And we would collaborate as needed to get the job done right.
+I worked remotely most of the time, and I went into the office a few times a week in Ogden, UT. I had two bosses, one boss was responsible for more of the business side of things and collaborating with clients, and the other boss did a large portion of the user experience design work for clients. The rest of the employees were front end and back end web developers, and one UX designer. We had a weekly meeting where one team member would present about something that was interesting to them. Client work was divided up by interests and specialities. We used slack to communicate and collaborate. I enjoyed professional relationships with all of my co-workers. But decided to leave to Nu Skin Enterprises for a paid salary position and better insurance instead of hourly compensation. 
 
 ## My job
 
-Most of the client work that was sent my way had to deal with re-making an old website into a modern website. I would figure out how to pull business data from a CMS like contentful or headless wordpress and source it into a statically sourced or generated website using Gatsby and React. I would then style it and build whatever functionality it needed. When I would run into things I had never done before, for example at one point I didn't know how to build the infrastructure for a blog on one of the sites, I would reach out to other devs who had done it before and ask for tips. This went a long way to helping me get the job done on time. I would keep track of my tasks on trello in a kanban format with deadlines and time tracking notes for the client to see that how their project is progressing. 
+Most of the client work that was sent my way had to deal with re-making an old website into a modern website. I would figure out how to pull business data from a CMS like contentful or headless wordpress and source it into a statically generated website using Gatsby and React. I was responsible for styling it and building whatever functionality the client needed. When I would run into things I had never done before, for example at one point I didn't know how to build the infrastructure for a blog on one of the sites, I would reach out to other devs who had done it before and ask for tips. This went a long way to helping me get the job done on time. I would keep track of my tasks on trello in a kanban format with deadlines and time tracking notes for the client to see that how their project is progressing. 
 ## Technologies worked with
 
 Basics
@@ -36,3 +36,4 @@ Other
 - Contentful 
 - Trello 
 - Git 
+- Client interaction and third party vendor interaction
