@@ -3,4 +3,22 @@
     {%- include social-item.html item = entry -%}
   {%- endfor -%}
 </ul>
-<script>console.log("yoyoo")</script>
+<script>
+  let counter = 0;
+  const changeH2 = () => {
+    const h2s = Array.from(document.querySelectorAll("h2"));
+    const filteredH2 = h2s?.filter(h =>
+      h?.className?.includes("post-list-heading")
+    );
+    const element = filteredH2?.[0];
+    if (element) {
+      element.innerText = "Current/Past Roles and Occupations";
+    } else {
+      setTimeout(() => {
+        counter = counter + 1;
+        if (counter < 3) changeH2();
+      }, 2000);
+    }
+  }
+  changeH2();
+</script>
