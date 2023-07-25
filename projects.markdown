@@ -15,7 +15,8 @@ permalink: /project/
       <tr>
         <td>What is the internet and how does it work?</td>
         <td>Discussion on the internet and how it works.</td>
-        <td><a href="./project_posts/one.html">Link</a></td>
+        <td>TBD</td>
+        <!-- <td><a href="./project_posts/one.html" target="_blank">Link</a></td> -->
         <td>Tuesday July 25th, 2023</td>
       </tr>
     </table>
