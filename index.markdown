@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+<script>
+  <script src="javascript.js"></script>
+</script>
