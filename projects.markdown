@@ -13,10 +13,10 @@ permalink: /project/
         <th>Date</th>
       </tr>
       <tr>
-        <td>React Framework - Wheather App</td>
-        <td>Wheather prediction by location using React Web Framework.</td>
+        <td>Vue Framework - <a href="https://v2.vuejs.org/" target="_blank">Vue 2 (not 3)</a></td>
+        <td>My Vue 2 Exercises and Discussions.</td>
         <td>TBD</td>
-        <td>Tuesday July 25th, 2023</td>
+        <td>August 2023</td>
       </tr>
     </table>
 </div>
