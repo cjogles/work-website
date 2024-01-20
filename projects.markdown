@@ -13,6 +13,12 @@ permalink: /project/
         <th>Date</th>
       </tr>
       <tr>
+        <td>Nu Skin Enterprises</td>
+        <td>Learned Vue.js on the job! Helped maintain the product detail pages for Nu Skin. Amongst other things pertaining to Product Display.</td>
+        <td><a href="https://www.nuskin.com/us/en/" target="_blank">Website Here</a></td>
+        <td>December 2023</td>
+      </tr>
+      <tr>
         <td>Lindys Local Pest</td>
         <td>First time building marketing website. Built for my brother in laws pest control business. I used React to build out the UI for this website, used Leaner Style Sheets (Less) as an extension to CSS to style the UI.</td>
         <td><a href="https://lindyslocalpest.com/" target="_blank">Website Here</a></td>
