@@ -13,8 +13,8 @@ permalink: /project/
         <th>Date</th>
       </tr>
       <tr>
-        <td>Nu Skin Enterprises</td>
-        <td>Learned Vue.js on the job! Helped maintain the product detail pages for Nu Skin. Amongst other things pertaining to Product Display.</td>
+        <td>Nu Skin Enteprises</td>
+        <td>Learned Vue.js on the job to help this beauty and wellness company! Helped maintain the product detail pages for Nu Skin. Amongst other things pertaining to Product Display.</td>
         <td><a href="https://www.nuskin.com/us/en/" target="_blank">Website Here</a></td>
         <td>December 2023</td>
       </tr>
