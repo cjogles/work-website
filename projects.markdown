@@ -19,6 +19,31 @@ permalink: /project/
         <td>December 2023</td>
       </tr>
       <tr>
+        <td>IKM TeckCheck Assessments Proficiency Ratings </td>
+        <td>
+          <p>
+               <a href="{{site.baseurl}}/resume.pdf" download="jackson_ogles_resume">Download my resume here</a>
+          </p> 
+          <p>
+               <a href="{{site.baseurl}}/react-test-results.pdf" download="jackson_ogles_resume">IKM TeckCheck Assessment Profiency Rating for React JS January 2024 - download here</a>
+          </p>
+          <p>
+               <a href="{{site.baseurl}}/vue-test-results.pdf" download="jackson_ogles_resume">IKM TeckCheck Assessment Profiency Rating for Vue JS January 2024 - download here</a>
+          </p>
+          <p>
+               <a href="{{site.baseurl}}/node-test-results.pdf" download="jackson_ogles_resume">IKM TeckCheck Assessment Profiency Rating for Node JS January 2024 - download here</a>
+          </p>
+          <p>
+               <a href="{{site.baseurl}}/typescript-test-results.pdf" download="jackson_ogles_resume">IKM TeckCheck Assessment Profiency Rating for Typescript January 2024 - download here</a>
+          </p>
+          <p>
+               <a href="{{site.baseurl}}/javascript-test-results.pdf" download="jackson_ogles_resume">IKM TeckCheck Assessment Profiency Rating for Javascript January 2024 - download here</a>
+          </p>
+        </td>
+        <td><a href="https://www.nuskin.com/us/en/" target="_blank">Website Here</a></td>
+        <td>December 2023</td>
+      </tr>
+      <tr>
         <td>Lindys Local Pest</td>
         <td>First time building marketing website. Built for my brother in laws pest control business. I used React to build out the UI for this website, used Leaner Style Sheets (Less) as an extension to CSS to style the UI.</td>
         <td><a href="https://lindyslocalpest.com/" target="_blank">Website Here</a></td>
