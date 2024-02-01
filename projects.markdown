@@ -19,7 +19,7 @@ permalink: /project/
         <td>December 2023</td>
       </tr>
       <tr>
-        <td>IKM TeckCheck Assessments Proficiency Ratings </td>
+        <td>IKM TeckCheck Assessments Proficiency Ratings & Resume </td>
         <td>
           <p>
                <a href="{{site.baseurl}}/resume.pdf" download="jackson_ogles_resume">Download my resume here</a>
@@ -40,8 +40,8 @@ permalink: /project/
                <a href="{{site.baseurl}}/javascript-test-results.pdf" download="jackson_ogles_resume">IKM TeckCheck Assessment Profiency Rating for Javascript January 2024 - download here</a>
           </p>
         </td>
-        <td><a href="https://www.nuskin.com/us/en/" target="_blank">Website Here</a></td>
-        <td>December 2023</td>
+        <td>see links to the left</td>
+        <td>Feb 2024</td>
       </tr>
       <tr>
         <td>Lindys Local Pest</td>
