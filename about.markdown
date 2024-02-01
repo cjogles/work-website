@@ -12,6 +12,21 @@ permalink: /about/
           <p>
                <a href="{{site.baseurl}}/resume.pdf" download="jackson_ogles_resume">Download my resume here</a>
           </p> 
+          <p>
+               <a href="{{site.baseurl}}/react-test-results.pdf" download="jackson_ogles_resume">IKM TeckCheck Assessment Profiency Rating for React JS January 2024 - download here</a>
+          </p>
+          <p>
+               <a href="{{site.baseurl}}/vue-test-results.pdf" download="jackson_ogles_resume">IKM TeckCheck Assessment Profiency Rating for Vue JS January 2024 - download here</a>
+          </p>
+          <p>
+               <a href="{{site.baseurl}}/node-test-results.pdf" download="jackson_ogles_resume">IKM TeckCheck Assessment Profiency Rating for Node JS January 2024 - download here</a>
+          </p>
+          <p>
+               <a href="{{site.baseurl}}/typescript-test-results.pdf" download="jackson_ogles_resume">IKM TeckCheck Assessment Profiency Rating for Typescript January 2024 - download here</a>
+          </p>
+          <p>
+               <a href="{{site.baseurl}}/javascript-test-results.pdf" download="jackson_ogles_resume">IKM TeckCheck Assessment Profiency Rating for Javascript January 2024 - download here</a>
+          </p>
      </div>
      <img style="width: 30%;" src="../assets/me.jpeg" alt="Jackson Ogles Profile Picture">
 </div>
