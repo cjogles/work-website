@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projects -> see even more project expereince on my github here https://github.com/cjogles <a href='nba.com'>test</a>
 permalink: /project/
 ---
 
