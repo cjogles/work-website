@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects, Test Results, and various Website Maintenance experiences
+title: Projects/Experiences
 permalink: /project/
 ---
 
@@ -11,9 +11,6 @@ permalink: /project/
         <th>Description</th>
         <th>Link</th>
         <th>Date</th>
-      </tr>
-      <tr>
-        <td>Feel free to check my <a href="https://github.com/cjogles" target="_blank">Github</a> for more project experience in addition to what you see below.</td>
       </tr>
       <tr>
         <td>Nu Skin Enteprises</td>
@@ -63,6 +60,12 @@ permalink: /project/
         <td>Assisted HQ team to add functionality and styles to the Collegwise website.</td>
         <td><a href="https://go.collegewise.com/" target="_blank">Website Here</a></td>
         <td>June 2021</td>
+      </tr>
+      <tr>
+        <td>Github Projects</td>
+        <td>See other projects at github via the link to the right.</td>
+        <td><a href="https://github.com/cjogles/" target="_blank">Website Here</a></td>
+        <td>ever present</td>
       </tr>
     </table>
 </div>
