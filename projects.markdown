@@ -13,6 +13,12 @@ permalink: /project/
         <th>Date</th>
       </tr>
       <tr>
+        <td>I Know Vue.js Github Project</td>
+        <td>This application is the gateway to showing all the things I know about Vue.js. Check it out!</td>
+        <td><a href="https://i-know-vue.vercel.app/" target="_blank">Website Here</a></td>
+        <td>April 2024 - Present</td>
+      </tr>
+      <tr>
         <td>Nu Skin Enteprises</td>
         <td>Learned Vue.js on the job to help this beauty and wellness company! Helped maintain the product detail pages for Nu Skin. Amongst other things pertaining to Product Display.</td>
         <td><a href="https://www.nuskin.com/us/en/" target="_blank">Website Here</a></td>
