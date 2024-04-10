@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects -> see even more project expereince on my github here https://github.com/cjogles <a href='nba.com'>test</a>
+title: Projects, Test Results, and various Website Maintenance experiences
 permalink: /project/
 ---
 
@@ -11,6 +11,9 @@ permalink: /project/
         <th>Description</th>
         <th>Link</th>
         <th>Date</th>
+      </tr>
+      <tr>
+        <td>Feel free to check my <a href="https://github.com/cjogles" target="_blank">Github</a> for more project experience in addition to what you see below.</td>
       </tr>
       <tr>
         <td>Nu Skin Enteprises</td>
