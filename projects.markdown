@@ -15,7 +15,7 @@ permalink: /project/
       <tr>
         <td>I Know Vue.js Github Project</td>
         <td>This application is the gateway to showing all the things I know about Vue.js. Check it out!</td>
-        <td><a href="https://i-know-vue.vercel.app/" target="_blank">Website Here</a></td>
+        <td><a href="https://i-know-vue.netlify.app/" target="_blank">Website Here</a></td>
         <td>April 2024 - Present</td>
       </tr>
       <tr>
